@@ -11,22 +11,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
+global.ownernomer = "237673804138"
+global.ownername = "ᏦᎥᏞᏞᎬᏒ ᎶᎻᎾᎦᏆ "
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉Limule Solitarus' //owner name
-global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
+global.ownernumber = '237673804138'  //creator number
+global.ownername = 'ᏦᎥᏞᏞᎬᏒ ᎶᎻᎾᎦᏆ ' //owner name
+global.botname = '💀ᎶᎻᎾᎦᏆ💀' //name of the bot
 
 //sticker details
 global.packname = '🍭𝐒𝐞𝐱𝐲 𝐒𝐡𝐮𝐧𝐚-𝐛𝐨𝐭'
 global.author = '🐉Limule Solitarus'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '💀'
 global.wm = "Limule Bot Inc."
 
 //theme link
@@ -36,12 +36,12 @@ global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
-global.autobio = false //auto update bio
-global.anti92 = false //auto block +92 
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
+global.autoread = true //auto read messages
+global.autobio = true //auto update bio
+global.anti92 = true //auto block +92 
 global.autoswview = false //auto view status/story
 
 //menu type 
